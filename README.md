@@ -3,6 +3,9 @@
 
 Pixate Freestyle is a toolkit for styling native mobile applications. It consists of a comprehensive collection of CSS classes that work with the [Pixate Framework](http://www.pixate.com/) to provide an easily customized base of styles for applications. Think of it as Bootstrap for native apps. Currently, it only supports iOS 7. Android support is coming soon.
 
+![My image](https://raw.github.com/Pixate/Freestyle/gh-pages/freestyle_typography.png)
+![My image](https://raw.github.com/Pixate/Freestyle/gh-pages/freestyle_form_styles.png)
+
 
 ## Getting started
 
